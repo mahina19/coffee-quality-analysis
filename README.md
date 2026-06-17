@@ -234,8 +234,7 @@ This project is open source and available under the MIT License.
 ## 📞 Connect With Me
 
 - **GitHub:** [mahina19](https://github.com/mahina19)
-- **Fiverr:** [Add your Fiverr link here]
-
+- **LinkedIn** [mahina](https://www.linkedin.com/in/mahina-saad707/)
 ---
 
 ## ❓ Questions?
